@@ -1,6 +1,6 @@
 {
   "name": "gulper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulper is gulp.js task runner runner to restart on change gulpfile.js.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "license": "MIT",
   "preferGlobal": "true",
   "repository": "https://github.com/anatoo/gulper.git",
-  "keywords": ["gulp.js", "gulp", "task" "runner", "wrapper", "restart"],
+  "keywords": ["gulp.js", "gulp", "task", "runner", "wrapper", "restart"],
   "bin": {
     "gulper": "bin/gulper"
   },
