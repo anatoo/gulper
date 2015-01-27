@@ -9,6 +9,7 @@
   "license": "MIT",
   "preferGlobal": "true",
   "repository": "https://github.com/anatoo/gulper.git",
+  "keywords": ["gulp.js", "gulp", "task" "runner", "wrapper", "restart"],
   "bin": {
     "gulper": "bin/gulper"
   },
