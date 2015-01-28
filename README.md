@@ -1,6 +1,6 @@
-# gulper
+# Gulper
 
-Gulper is gulp.js task runner runner to restart gulp on change gulpfile.
+Gulper is gulp.js cli wrapper to restart gulp automatically on gulpfile change.
 
 ## Installation
 
