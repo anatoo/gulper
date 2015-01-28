@@ -1,5 +1,7 @@
 # Gulper
 
+[![npm version](https://badge.fury.io/js/gulper.png)](http://badge.fury.io/js/gulper)
+
 Gulper is gulp.js cli wrapper to restart gulp automatically on gulpfile change.
 
 ## Installation
