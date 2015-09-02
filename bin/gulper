@@ -8,6 +8,6 @@ which('gulp', function(error, path) {
   if (error) {
     return console.error(error.message);
   } else {
-    dev([path].concat(args));
+    dev(path, args, []);
   }
 });
