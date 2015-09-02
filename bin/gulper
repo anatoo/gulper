@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var dev = require('node-dev/lib');
+var dev = require('node-dev');
 var which = require('npm-which')(process.cwd());
 var args = process.argv.slice(2);
 
