@@ -9,12 +9,19 @@
   "license": "MIT",
   "preferGlobal": "true",
   "repository": "https://github.com/anatoo/gulper.git",
-  "keywords": ["gulp.js", "gulp", "task", "runner", "wrapper", "restart"],
+  "keywords": [
+    "gulp.js",
+    "gulp",
+    "task",
+    "runner",
+    "wrapper",
+    "restart"
+  ],
   "bin": {
     "gulper": "bin/gulper"
   },
   "dependencies": {
-    "node-dev": "^3.1.3",
-    "npm-which": "^2.0.0"
+    "node-dev": "^4.0.0",
+    "npm-which": "^3.0.1"
   }
 }
